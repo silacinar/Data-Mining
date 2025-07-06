@@ -1,5 +1,4 @@
-# Data_Mining
-# 🧠 Author Classification Project
+# Data_Mining (Author Classification Project)
 
 This project aims to classify authors based on their writing using machine learning and NLP techniques.
 
@@ -16,9 +15,9 @@ This project aims to classify authors based on their writing using machine learn
 ## 📁 Dataset Format
 
 Each author has a folder with `.txt` files:
-dataset/
-├── Author1/
-│ ├── file1.txt
-│ ├── ...
-├── Author2/
-│ └── ...
+  dataset/
+    ├── Author1/
+    │ ├── file1.txt
+    │ ├── ...
+    ├── Author2/
+    │ └── ...
